@@ -1,0 +1,12 @@
+h1 {
+  color: #333;
+  text-align: center;
+}
+
+.error-banner {
+  background-color: #ffcccc;
+  color: #800000;
+  padding: 1rem;
+  text-align: center;
+  font-weight: bold;
+}

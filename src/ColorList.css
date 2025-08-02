@@ -1,0 +1,24 @@
+.color-list {
+  padding: 2rem;
+  max-width: 600px;
+  margin: auto;
+}
+
+.color-list ul {
+  list-style: none;
+  padding: 0;
+}
+
+.color-list li {
+  margin-bottom: 0.5rem;
+}
+
+.add-link {
+  display: inline-block;
+  margin-top: 1rem;
+  text-decoration: none;
+  background-color: #333;
+  color: #fff;
+  padding: 0.5rem 1rem;
+  border-radius: 4px;
+}

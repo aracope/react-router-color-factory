@@ -1,0 +1,15 @@
+.color-detail {
+  height: 100vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  color: #fff;
+  text-align: center;
+}
+
+.color-detail a {
+  margin-top: 1rem;
+  color: #fff;
+  text-decoration: underline;
+}
